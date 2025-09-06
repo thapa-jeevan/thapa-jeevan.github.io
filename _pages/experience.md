@@ -12,7 +12,7 @@ author_profile: true
 
 ### Research Scientist Intern  
   * [ZillowGroup](https://www.zillowgroup.com/)  <span style="float: right;"> 
- Rochester, NY [May 2025 — Sep 2025]</span>  
+ Remote [May 2025 — Sep 2025]</span>  
   * Researched in the field of parameter-efficient continual user modeling. Work in submission. 
 
 ### Machine Learning Engineer 
