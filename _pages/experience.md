@@ -13,7 +13,7 @@ author_profile: true
 ### Research Scientist Intern  
   * [ZillowGroup](https://www.zillowgroup.com/)  <span style="float: right;"> 
  Remote [May 2025 — Sep 2025]</span>  
-  * Researched in the field of parameter-efficient continual user modeling. Work in submission. 
+  * Developed a parameter-efficient finetuning-based framework for continual user modeling using mixture of rank-1 experts; manuscript under submission. 
 
 ### Machine Learning Engineer 
   * [Fusemachines](https://fusemachines.com/)   <span style="float: right;"> 
