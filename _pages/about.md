@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-I am a third year Ph.D. student at [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/) in [Rochester Institute of Technology (RIT)](https://www.rit.edu/). I am advised by [Dr. Rui Li](https://ruililuci.com//) at the [Lab of Use-inspired Computational Intelligence (LUCI)](https://ruililuci.com//). I am currently researching in the field of Continual Learning. Before this, I spent 2.7 years as a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/) in Kathmandu, Nepal. 
+I am a fourth year Ph.D. student at [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/) in [Rochester Institute of Technology (RIT)](https://www.rit.edu/). I am advised by [Dr. Rui Li](https://ruililuci.com//) at the [Lab of Use-inspired Computational Intelligence (LUCI)](https://ruililuci.com//). I am currently researching in the field of Continual Learning. I interned at ZillowGroup as a Research Scientist Intern in the summer of 2025. Before this, I spent 2.7 years as a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/) in Kathmandu, Nepal. 
 
 ### Research Interests
-* **Machine Learning**: Continual Learning, Test-Time Adaptation, Federated Continual Learning
+* **Machine Learning**: Continual Learning, Test-Time Adaptation, Recommendation Engine, Continual User Modeling  
 * **Computer Vision**: Object Segmentation, Re-identification, Tracking, Action Recognition
 
 ---
@@ -20,6 +20,7 @@ Please, find my CV [here](https://thapa-jeevan.github.io/files/CV.pdf).
 
 ---
 ### News
+* (Sep 2025): I completed a summer internship at ZillowGroup as a Research Scientist Intern. 
 * (Sep 2024): I will serve as a reviewer for ICLR 2025.
 * (May 2024): Our paper entitled "[Bayesian Adaptation of Network Depth and Width for Continual Learning](https://openreview.net/pdf?id=c9HddKGiYk)" got accepted in ICML 2024.
 * (May 2023): Successfully defended and passed my Research Potential Assessment (RPA).

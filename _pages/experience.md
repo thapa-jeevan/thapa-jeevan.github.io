@@ -10,6 +10,11 @@ author_profile: true
  Rochester, NY [Aug 2022 — 2027 (expected)]</span>  
   * Researching in the field of Continual Learning and Test Time Adaptation at [Lab of Use-inspired Computational Intelligence](https://ruililuci.com//).
 
+### Research Scientist Intern  
+  * [ZillowGroup](https://www.zillowgroup.com/)  <span style="float: right;"> 
+ Rochester, NY [May 2025 — Sep 2025]</span>  
+  * Researched in the field of parameter-efficient continual user modeling. Work in submission. 
+
 ### Machine Learning Engineer 
   * [Fusemachines](https://fusemachines.com/)   <span style="float: right;"> 
  Kathmandu, Nepal [Sep 2019 — Jun 2022] </span> 
