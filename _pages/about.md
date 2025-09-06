@@ -20,7 +20,7 @@ Please, find my CV [here](https://thapa-jeevan.github.io/files/CV.pdf).
 
 ---
 ### News
-* (Sep 2025): I completed a summer internship at ZillowGroup as a Research Scientist Intern. Work under submission.
+* (Sep 2025): I completed a summer internship at ZillowGroup as a Research Scientist Intern. Work under review.
 * (Sep 2024): I will serve as a reviewer for ICLR 2025.
 * (May 2024): Our paper entitled "[Bayesian Adaptation of Network Depth and Width for Continual Learning](https://openreview.net/pdf?id=c9HddKGiYk)" got accepted in ICML 2024.
 * (May 2023): Successfully defended and passed my Research Potential Assessment (RPA).
