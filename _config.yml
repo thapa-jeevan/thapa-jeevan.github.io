@@ -86,7 +86,7 @@ author:
   location         : "Rochester, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=LdQyV3cAAAAJ&hl=en"
   email            : "jt4812@g.rit.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
