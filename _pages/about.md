@@ -21,7 +21,7 @@ Please, find my CV [here](https://thapa-jeevan.github.io/files/CV.pdf).
 ---
 ### News
 * (Mar 2026): Our paper entitled "[Evolving Mixture of Low-Rank Experts for Continual User Modeling](https://link.springer.com/chapter/10.1007/978-3-032-21300-6_21)" got accepted in ECIR 2026.
-* (Sep 2025): I completed a summer internship at ZillowGroup as a Research Scientist Intern. Work under review.
+* (Sep 2025): I completed a summer internship at ZillowGroup as a Research Scientist Intern. 
 * (Sep 2024): I will serve as a reviewer for ICLR 2025.
 * (May 2024): Our paper entitled "[Bayesian Adaptation of Network Depth and Width for Continual Learning](https://openreview.net/pdf?id=c9HddKGiYk)" got accepted in ICML 2024.
 * (May 2023): Successfully defended and passed my Research Potential Assessment (RPA).
