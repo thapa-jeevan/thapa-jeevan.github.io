@@ -86,6 +86,35 @@
 
 
 /*
+   Boxed archive items (used to box teaching/talks entries)
+   ========================================================================== */
+
+.boxed-archive {
+  .archive__item {
+    @include notice($light-gray);
+    font-size: $type-size-5 !important;
+
+    a {
+      color: $link-color;
+
+      &:hover {
+        color: $link-color-hover;
+      }
+    }
+  }
+
+  .archive__item-title {
+    margin-top: 0 !important;
+    margin-bottom: 0.5em;
+  }
+
+  .archive__item-excerpt,
+  .page__meta {
+    font-size: 1em;
+  }
+}
+
+/*
    List view
    ========================================================================== */
 

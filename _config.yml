@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeevan Thapa"
 title_separator          : "-"
 name                     : &name "Jeevan Thapa"
-description              : &description "Computer Science Ph.D. Student"
+description              : &description "CS Ph.D. Candidate at RIT"
 url                      : https://thapajeevan.com.np # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thapa-jeevan/thapa-jeevan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jeevan Thapa"
   avatar           : "jeevan_latest.png"
-  bio              : "Computer Science Ph.D. Student"
+  bio              : "CS Ph.D. Candidate at RIT"
   location         : "Rochester, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
