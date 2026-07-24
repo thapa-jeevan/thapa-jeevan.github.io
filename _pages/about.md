@@ -10,7 +10,9 @@ redirect_from:
 
 
 <div class="notice--project" markdown="1">
-I am a CS Ph.D. Candidate at [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/) in [Rochester Institute of Technology (RIT)](https://www.rit.edu/). I am advised by [Dr. Rui Li](https://ruililuci.com//) at the [Lab of Use-inspired Computational Intelligence (LUCI)](https://ruililuci.com//). My research focuses on continual learning and generalized category discovery, parameter-efficient adaptation, and recommender systems and user modeling. I interned at [ZillowGroup](https://www.zillow.com/) as a Research Scientist Intern in the summer of 2025, developing parameter-efficient methods for continual user modeling in recommender systems. Before starting my Ph.D., I spent 2.7 years as a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/) in Kathmandu, Nepal.
+I am a Computer Science Ph.D. candidate at [Rochester Institute of Technology](https://www.rit.edu/), advised by [Dr. Rui Li](https://ruililuci.com/). My research focuses on continual learning, parameter-efficient adaptation, and continual user modeling. Previously, I was a Research Scientist Intern at [Zillow Group](https://www.zillow.com/) and a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/).
+
+<p><a href="/publications/" class="btn">View Publications</a> <a href="/files/CV.pdf" class="btn btn--inverse" download>Download CV</a></p>
 
 ### Research Interests
 * **Machine Learning**: Continual Learning and Generalized Category Discovery, Recommendation Engine and Continual User Modeling
@@ -18,7 +20,35 @@ I am a CS Ph.D. Candidate at [Golisano College of Computing and Information Scie
 * **Bioinformatics**: Gene-Disease Association, Protein-Protein Interaction Prediction
 </div>
 
-Please, find my CV [here](https://thapa-jeevan.github.io/files/CV.pdf).
+## Selected Research
+
+<div class="research-grid" markdown="0">
+
+<div class="research-card">
+  <span class="research-card__venue">ECIR 2026</span>
+  <h3 class="research-card__title">Evolving Mixture of Low-Rank Experts for Continual User Modeling</h3>
+  <p class="research-card__desc">A mixture-of-rank-1-experts architecture that enables parameter-efficient continual adaptation for sequential recommendation.</p>
+  <p class="research-card__links">
+    <a href="https://link.springer.com/chapter/10.1007/978-3-032-21300-6_21">Paper</a> ·
+    <a href="https://github.com/jt4812/ecir26">Code</a> ·
+    <a href="/publications/#thapa2026evolving">Citation</a>
+  </p>
+</div>
+
+<div class="research-card">
+  <span class="research-card__venue">ICML 2024</span>
+  <h3 class="research-card__title">Bayesian Adaptation of Network Depth and Width for Continual Learning</h3>
+  <p class="research-card__desc">A Bayesian continual-learning framework that dynamically adapts network depth and width to evolving tasks via beta-Bernoulli process priors.</p>
+  <p class="research-card__links">
+    <a href="https://openreview.net/pdf?id=c9HddKGiYk">Paper</a> ·
+    <a href="https://github.com/jt4812/bayes_struc_adap_cl">Code</a> ·
+    <a href="/publications/#thapa2024bayesian">Citation</a>
+  </p>
+</div>
+
+</div>
+
+<p><a href="/publications/" class="btn btn--inverse">View All Publications</a></p>
 
 <div class="notice--project" markdown="1">
 ### News

@@ -92,6 +92,30 @@
   }
 }
 
+.publication-bibtex {
+  margin-top: 0.75em;
+
+  summary {
+    display: inline-block;
+    color: $link-color;
+    font-weight: bold;
+    cursor: pointer;
+
+    &:hover {
+      color: $link-color-hover;
+    }
+  }
+
+  &[open] summary {
+    margin-bottom: 0.75em;
+  }
+
+  div.highlighter-rouge,
+  figure.highlight {
+    margin-bottom: 0;
+  }
+}
+
 /* Primary notice */
 
 .notice--primary {
