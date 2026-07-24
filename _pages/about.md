@@ -20,7 +20,7 @@ I am a Computer Science Ph.D. candidate at [Rochester Institute of Technology](h
 * **Bioinformatics**: Gene-Disease Association, Protein-Protein Interaction Prediction
 </div>
 
-## Selected Research
+## Research Highlights
 
 <div class="research-grid" markdown="0">
 
