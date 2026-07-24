@@ -12,7 +12,7 @@ redirect_from:
 <div class="notice--project" markdown="1">
 I am a Computer Science Ph.D. candidate at [Rochester Institute of Technology](https://www.rit.edu/), advised by [Dr. Rui Li](https://ruililuci.com/). My research focuses on continual learning, parameter-efficient adaptation, and continual user modeling. Previously, I was a Research Scientist Intern at [Zillow Group](https://www.zillow.com/) and a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/).
 
-<p><a href="/publications/" class="btn">View Publications</a> <a href="/files/CV.pdf" class="btn btn--inverse" download>Download CV</a></p>
+<p><a href="/files/CV.pdf" class="btn" download>Download CV</a></p>
 
 ### Research Interests
 * **Machine Learning**: Continual Learning and Generalized Category Discovery, Recommendation Engine and Continual User Modeling
