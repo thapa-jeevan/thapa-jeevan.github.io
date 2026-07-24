@@ -25,7 +25,7 @@ I am a Computer Science Ph.D. candidate at [Rochester Institute of Technology](h
 <div class="research-grid" markdown="0">
 
 <div class="research-card">
-  <span class="research-card__venue">ECIR 2026</span>
+  <span class="research-card__venue">European Conference on Information Retrieval · 2026</span>
   <h3 class="research-card__title">Evolving Mixture of Low-Rank Experts for Continual User Modeling</h3>
   <p class="research-card__desc">A mixture-of-rank-1-experts architecture that enables parameter-efficient continual adaptation for sequential recommendation.</p>
   <p class="research-card__links">
@@ -36,7 +36,7 @@ I am a Computer Science Ph.D. candidate at [Rochester Institute of Technology](h
 </div>
 
 <div class="research-card">
-  <span class="research-card__venue">ICML 2024</span>
+  <span class="research-card__venue">International Conference on Machine Learning · 2024</span>
   <h3 class="research-card__title">Bayesian Adaptation of Network Depth and Width for Continual Learning</h3>
   <p class="research-card__desc">A Bayesian continual-learning framework that dynamically adapts network depth and width to evolving tasks via beta-Bernoulli process priors.</p>
   <p class="research-card__links">
