@@ -31,7 +31,7 @@ author_profile: true
 
 <div class="notice--project" markdown="1">
 ### Research Scientist Intern <span style="float: right; font-weight: normal;">May 2025 — Sep 2025</span>
-  * [ZillowGroup](https://www.zillowgroup.com/) <span style="float: right;">Remote</span>
+  * [Zillow Group](https://www.zillowgroup.com/) <span style="float: right;">Remote</span>
   * Developed a mixture-of-rank-1-experts architecture for continual user modeling, enabling parameter-efficient adaptation to sequential recommendation data; published at ECIR 2026.
 </div>
 
