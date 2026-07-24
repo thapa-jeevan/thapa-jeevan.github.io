@@ -1,14 +1,19 @@
 ---
 layout: archive
 title: "Teaching"
+excerpt: "Teaching experience and course materials in mathematics and machine learning."
 permalink: /teaching/
 author_profile: true
+classes:
+  - teaching-page
 ---
 
 {% include base_path %}
 
-<div class="boxed-archive">
+<p class="page-intro">I enjoy making the mathematical foundations of machine learning practical, intuitive, and connected to modern AI systems.</p>
+
+<div class="learning-list">
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% include teaching-card.html %}
 {% endfor %}
 </div>

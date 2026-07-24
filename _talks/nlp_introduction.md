@@ -4,8 +4,9 @@ collection: talks
 type: "Talk"
 permalink: /talks/nlp_introduction
 venue: "Mpercept"
-date: 2020-10-1
+date: 2020-10-01
 location: "Kathmandu, Nepal"
+slides: "/files/NLP-Introduction.pdf"
 ---
 
-[slides](/files/NLP-Introduction.pdf) - Gave a basic introduction to Natural Language Processing (NLP), related problems, data representation for deep learning and common deep learning models in the domain.
+Gave an introduction to Natural Language Processing (NLP), related problems, data representation for deep learning, and common deep-learning models in the domain.

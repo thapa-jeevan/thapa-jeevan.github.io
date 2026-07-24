@@ -3,20 +3,30 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        <button aria-label="Toggle navigation" aria-expanded="false" aria-controls="site-nav-hidden"><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg{% if page.url == "/" %} is-current{% endif %}" data-nav-order="0"><a href="{{ base_path }}/"{% if page.url == "/" %} aria-current="page"{% endif %}>{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign link_is_current = false %}
+            {% if page.url == link.url %}
+              {% assign link_is_current = true %}
+            {% elsif link.url == '/talks/' and page.collection == 'talks' %}
+              {% assign link_is_current = true %}
+            {% elsif link.url == '/teaching/' and page.collection == 'teaching' %}
+              {% assign link_is_current = true %}
+            {% elsif link.url == '/publications/' and page.collection == 'publications' %}
+              {% assign link_is_current = true %}
+            {% endif %}
+            <li class="masthead__menu-item{% if link_is_current %} is-current{% endif %}" data-nav-order="{{ forloop.index }}"><a href="{{ domain }}{{ link.url }}"{% if link_is_current %} aria-current="page"{% endif %}{% if link.url contains 'http' %} rel="noopener"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
         </ul>
-        <ul class="hidden-links hidden"></ul>
+        <ul id="site-nav-hidden" class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>

@@ -1,18 +1,25 @@
 ---
 layout: archive
 title: "Talks and presentations"
+excerpt: "Invited lectures, conference presentations, and technical talks by Jeevan Thapa."
 permalink: /talks/
 author_profile: true
+classes:
+  - talks-page
 ---
+
+{% include base_path %}
+
+<p class="page-intro">Invited lectures, conference presentations, and technical talks on continual learning, deep learning, and generative models.</p>
 
 {% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p><a href="/talkmap.html">View talks on a map</a></p>
 
 {% endif %}
 
-<div class="boxed-archive">
+<div class="talk-list">
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% include talk-card.html %}
 {% endfor %}
 </div>

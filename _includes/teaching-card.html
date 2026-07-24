@@ -1,0 +1,15 @@
+<article class="learning-card" itemscope itemtype="https://schema.org/Course">
+  <div class="learning-card__marker" aria-hidden="true">
+    <span>Course</span>
+    <strong>{{ post.date | date: "%Y" }}</strong>
+  </div>
+  <div class="learning-card__content">
+    <p class="learning-card__meta">{{ post.type }} · {{ post.location }}</p>
+    <h2 itemprop="name">{{ post.title }}</h2>
+    <p class="learning-card__venue" itemprop="provider">{{ post.venue }}</p>
+    <div class="learning-card__description" itemprop="description">{{ post.content }}</div>
+    {% if post.external_url %}
+      <a class="learning-card__action" href="{{ post.external_url }}">Course information <span aria-hidden="true">↗</span></a>
+    {% endif %}
+  </div>
+</article>

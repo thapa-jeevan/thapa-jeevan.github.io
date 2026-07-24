@@ -1,0 +1,26 @@
+<article class="talk-card" itemscope itemtype="https://schema.org/Event">
+  <div class="talk-card__date">
+    <time itemprop="startDate" datetime="{{ post.date | date_to_xmlschema }}">
+      <span>{{ post.date | date: "%b" }}</span>
+      <strong>{{ post.date | date: "%d" }}</strong>
+      <span>{{ post.date | date: "%Y" }}</span>
+    </time>
+  </div>
+  <div class="talk-card__content">
+    <p class="talk-card__type">{{ post.type }}</p>
+    <h2 itemprop="name"><a itemprop="url" href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="talk-card__venue"><span itemprop="location">{{ post.venue }} · {{ post.location }}</span></p>
+    {% if post.excerpt %}
+      <div class="talk-card__description" itemprop="description">{{ post.excerpt }}</div>
+    {% endif %}
+    <div class="talk-card__actions">
+      <a href="{{ base_path }}{{ post.url }}">View details <span aria-hidden="true">→</span></a>
+      {% if post.slides %}
+        <a href="{{ post.slides }}">Slides <span aria-hidden="true">↗</span></a>
+      {% endif %}
+      {% if post.paper %}
+        <a href="{{ post.paper }}">Paper <span aria-hidden="true">↗</span></a>
+      {% endif %}
+    </div>
+  </div>
+</article>
