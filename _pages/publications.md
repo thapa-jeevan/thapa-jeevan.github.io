@@ -15,6 +15,10 @@ author_profile: true
 ### Evolving Mixture of Low-Rank Experts for Continual User Modeling
 J. Thapa, S. Zhao, K. Shindo · **European Conference on Information Retrieval** · 2026
 
+<div class="publication-figure" markdown="1">
+![Architecture of continual SVD-LoRA and experimental results on continual user modeling](/files/ECIR26modelcard.png)
+</div>
+
 [Paper](https://link.springer.com/chapter/10.1007/978-3-032-21300-6_21)
 
 <details class="publication-bibtex" markdown="1">
@@ -35,6 +39,10 @@ J. Thapa, S. Zhao, K. Shindo · **European Conference on Information Retrieval**
 <div class="notice--project" id="thapa2024bayesian" markdown="1">
 ### Bayesian Adaptation of Network Depth and Width for Continual Learning
 J. Thapa, R. Li · **International Conference on Machine Learning** · 2024
+
+<div class="publication-figure" markdown="1">
+![Bayesian structure inference framework using beta process and conjugate Bernoulli process for continual network depth and width adaptation](/files/ICML24modelcard.png)
+</div>
 
 [Paper](https://openreview.net/pdf?id=c9HddKGiYk)
 

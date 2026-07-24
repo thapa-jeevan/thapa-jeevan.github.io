@@ -92,6 +92,16 @@
   }
 }
 
+.publication-figure {
+  margin: 0.85em 0;
+
+  img {
+    display: block;
+    border: 1px solid mix(#000, $light-gray, 10%);
+    border-radius: $border-radius;
+  }
+}
+
 .publication-bibtex {
   margin-top: 0.75em;
 
