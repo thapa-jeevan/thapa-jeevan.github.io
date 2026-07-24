@@ -125,11 +125,11 @@ redirect_from:
   </details>
 </section>
 
-<section class="contact-band" aria-labelledby="contact-title">
+<section id="contact" class="contact-band" aria-labelledby="contact-title">
   <div>
     <p class="eyebrow">Let’s connect</p>
     <h2 id="contact-title">Interested in adaptive machine learning?</h2>
-    <p>I’m always glad to discuss research, collaboration, and applied ML problems.</p>
+    <p>I’m seeking Research Scientist, Applied Scientist, and Machine Learning internships or roles for Summer and Fall 2027.</p>
   </div>
   <a href="mailto:jt4812@g.rit.edu" class="btn btn--light">Email me <span aria-hidden="true">↗</span></a>
 </section>

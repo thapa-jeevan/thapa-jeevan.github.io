@@ -30,6 +30,9 @@ main:
 
   - title: "CV"
     url: https://www.thapajeevan.com.np/files/CV.pdf
-    
+
+  - title: "Contact"
+    url: /#contact
+
 #  - title: "Guide"
 #    url: /markdown/
