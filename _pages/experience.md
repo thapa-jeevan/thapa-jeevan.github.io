@@ -2,6 +2,7 @@
 layout: archive
 title: "Experience"
 excerpt: "Research, industry, teaching, and education experience in machine learning and computer science."
+last_modified_at: 2026-07-24
 permalink: /experience/
 author_profile: true
 classes:

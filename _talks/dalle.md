@@ -5,6 +5,7 @@ type: "Lecture, Course: CISC-807 Teaching Skills Workshop"
 permalink: /talks/dalle
 venue: "GCCIS, Rochester Institute of Technology"
 date: 2022-09-30
+last_modified_at: 2026-07-24
 location: "Rochester, New York"
 slides: "/files/OpenAI%20DALL-E.pdf"
 ---

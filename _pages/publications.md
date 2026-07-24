@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 excerpt: "Peer-reviewed research by Jeevan Thapa on continual learning, efficient adaptation, and continual user modeling."
+last_modified_at: 2026-07-24
 permalink: /publications/
 author_profile: true
 ---

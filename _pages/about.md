@@ -2,6 +2,7 @@
 permalink: /
 title: "Jeevan Thapa — Machine Learning Researcher"
 excerpt: "Machine learning researcher working on continual learning, parameter-efficient adaptation, and continual user modeling."
+last_modified_at: 2026-07-24
 author_profile: false
 classes:
   - home

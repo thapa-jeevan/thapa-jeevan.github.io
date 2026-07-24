@@ -69,7 +69,7 @@ social:
   type                   : Person
   name                   : "Jeevan Thapa"
   links:
-    - "https://github.com/thapa-jeevan"
+    - "https://github.com/jt4812"
     - "https://www.linkedin.com/in/thapa-jeevan"
     - "https://scholar.google.com/citations?user=LdQyV3cAAAAJ&hl=en"
     - "https://orcid.org/0009-0003-7668-2749"
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Jeevan Thapa"
   avatar           : "jeevan_latest.jpg"
-  bio              : "Machine Learning Researcher · Ph.D. Candidate at RIT"
+  bio              : "Machine Learning Researcher · Ph.D. candidate at RIT"
   location         : "Rochester, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "thapa-jeevan"
+  github           : "jt4812"
   google_plus      :
   keybase          :
   instagram        :
@@ -193,7 +193,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
@@ -255,6 +255,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # Keep downloadable talk materials accessible without promoting them as
+  # standalone search results.
+  - scope:
+      path: "files/NLP-Introduction.pdf"
+    values:
+      sitemap: false
+  - scope:
+      path: "files/OpenAI DALL-E.pdf"
+    values:
+      sitemap: false
 
 # Sass/SCSS
 sass:

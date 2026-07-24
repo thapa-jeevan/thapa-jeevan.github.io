@@ -2,10 +2,16 @@
 layout: archive
 title: "Projects"
 excerpt: "Selected research and industry machine-learning projects by Jeevan Thapa."
+last_modified_at: 2026-07-24
 permalink: /projects/
 author_profile: true
 classes:
   - projects-page
+redirect_from:
+  - /collection-archive/
+  - /portfolio/
+  - /portfolio/portfolio-1/
+  - /portfolio/portfolio-2/
 ---
 
 <p class="page-intro">Selected work across continual learning, recommendation, computer vision, bioinformatics machine learning, and applied data systems.</p>
