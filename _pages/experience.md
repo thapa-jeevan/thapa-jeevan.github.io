@@ -60,7 +60,7 @@ classes:
       <li>Built a Bayesian continual-learning framework that dynamically adapts network depth and width for evolving tasks; published at ICML 2024.</li>
       <li>Developed a cross-task representation-alignment framework that improved average accuracy by 2.16 percentage points for exemplar-free class-incremental learning; manuscript under review.</li>
       <li>Designed a parameter-efficient adaptation method for continual generalized category discovery using full-covariance Gaussian prototypes, evaluated on medical-imaging datasets.</li>
-      <li>Developing a Bayesian adaptive graph neural network for gene–disease association prediction over protein–protein interaction graphs.</li>
+      <li>Developing a probabilistic graph propagation framework with module diversity regularization that integrates bioinformatics data for gene–disease association prediction.</li>
     </ul>
   </article>
 
